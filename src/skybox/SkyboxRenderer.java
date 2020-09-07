@@ -73,12 +73,12 @@ public class SkyboxRenderer {
 			"skybox/day/front.png"
 	};
 	private static final String[] TEXTURE_FILES_NIGHT = {
-			"skybox/night/right.png",
-			"skybox/night/left.png",
-			"skybox/night/top.png",
-			"skybox/night/bottom.png",
-			"skybox/night/back.png",
-			"skybox/night/front.png"
+			"skybox/day/vright.png",
+			"skybox/day/vleft.png",
+			"skybox/day/vtop.png",
+			"skybox/day/bottom.png",
+			"skybox/day/vback.png",
+			"skybox/day/vfront.png"
 	};
 	
 	private Model cube;

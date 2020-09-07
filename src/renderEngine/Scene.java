@@ -68,9 +68,9 @@ import water.WaterShader;
 
 public class Scene {
 
-	private static float R = 0.55f;
-	private static float G = 0.62f;
-	private static float B = 0.69f;
+	private static float R = 240.0f / 255;
+	private static float G = 144.0f / 255;
+	private static float B = 12.0f / 255;
 	private static final int MAX_LIGHTS = 4;
 	
 	private final Loader loader;
