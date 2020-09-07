@@ -3,7 +3,7 @@
 Projekt zaliczeniowy z przedmiotu Grafika Komputerowa
 
 ## Co najmniej 15 zróżnicowanych geometrycznie obiektów na scenie.
-![](/images/water_reflection.png)
+![](/images/water_reflection.PNG)
 
 ## Wykorzystanie multitexturowania (teren)
 |![](/textures/B_MAP.png)|![](/images/terrain_map.PNG)|
