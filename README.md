@@ -6,7 +6,7 @@ Projekt zaliczeniowy z przedmiotu Grafika Komputerowa
 ![](/images/water_reflection.png)
 
 ## Wykorzystanie multitexturowania (teren)
-|![](/textures/B_MAP.png)&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;|![](/images/terrain_map.png)|
+|![](/textures/B_MAP.png)|![](/images/terrain_map.png)|
 |-|-|
 
 ## Wykorzystanie mgły
@@ -39,5 +39,5 @@ Projekt zaliczeniowy z przedmiotu Grafika Komputerowa
 ![](/images/frustum_culling.gif)
 
 ## Generowanie terenu za pomocą mapy wysokości (plik .png)
-|![](/textures/heightMap.png)&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;|![](/images/height_map.png)|
+|![](/textures/heightMap.png)|![](/images/height_map.png)|
 |-|-|
