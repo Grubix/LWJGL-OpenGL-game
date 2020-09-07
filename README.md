@@ -6,7 +6,7 @@ Projekt zaliczeniowy z przedmiotu Grafika Komputerowa
 ![](/images/water_reflection.png)
 
 ## Wykorzystanie multitexturowania (teren)
-|![](/textures/B_MAP.png)|![](/images/terrain_map.png)|
+|![](/textures/B_MAP.png)|![](/images/terrain_map.PNG)|
 |-|-|
 
 ## Wykorzystanie mgły
@@ -16,7 +16,7 @@ Projekt zaliczeniowy z przedmiotu Grafika Komputerowa
 ![](/images/scene_animation.gif)
 
 ## Co najmniej 3 źródła światła z modyfikowanymi parametrami
-|![](/images/light_green.png)|![](/images/light_red.png)|
+|![](/images/light_green.PNG)|![](/images/light_red.PNG)|
 |-|-|
 
 ## System cząstek (animacja)
@@ -39,5 +39,5 @@ Projekt zaliczeniowy z przedmiotu Grafika Komputerowa
 ![](/images/frustum_culling.gif)
 
 ## Generowanie terenu za pomocą mapy wysokości (plik .png)
-|![](/textures/heightMap.png)|![](/images/height_map.png)|
+|![](/textures/heightMap.png)|![](/images/height_map.PNG)|
 |-|-|
