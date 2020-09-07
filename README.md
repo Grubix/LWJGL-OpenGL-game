@@ -4,7 +4,7 @@
 ![](./images/water_reflection.PNG)
 
 ## Wykorzystanie multitexturowania (teren)
-|![](./textures/B_MAP.PNG)&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;|![](./images/terrain_map.PNG)|
+|![](./textures/B_MAP.PNG)|![](./images/terrain_map.PNG)|
 |-|-|
 
 ## Wykorzystanie mgły
@@ -40,5 +40,5 @@
 
 ## Generowanie terenu za pomocą mapy wysokości (plik .png)
 
-|![](./textures/heightMap.PNG)&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;|![](./images/height_map.png)|
+|![](./textures/heightMap.PNG)|![](./images/height_map.png)|
 |-|-|
