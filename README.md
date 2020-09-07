@@ -15,7 +15,7 @@ Projekt zaliczeniowy z przedmiotu Grafika Komputerowa
 ## Realizacja animacji sceny
 ![](/images/scene_animation.gif)
 
-## Co najmniej 3 źródła światła z modyfikowanymi parametrami
+## Co najmniej 2 źródła światła z modyfikowanymi parametrami
 |![](/images/light_green.PNG)|![](/images/light_red.PNG)|
 |-|-|
 
