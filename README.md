@@ -32,7 +32,7 @@ Projekt zaliczeniowy z przedmiotu Grafika Komputerowa
 ![](/images/camera_perspective.gif)
 
 ## Wykorzystanie atlasu textur - jedna duża tekstura, z kilkoma teksturami dla danego modelu
-|![](/textures/tree1AtlasScaled.png)|![](/images/texture_atlas.png)|
+|![](/textures/tree1AtlasScaled.png)|![](/images/texture_atlas.PNG)|
 |-|-|
 
 ## Frustum culling - wyłączanie renderowania obiektów jeżeli nie znajdują się one wpolu widzenia kamery
